@@ -1,2 +1,1 @@
-
-console.log('Feature 1');
+console.log('feature2');
